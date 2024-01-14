@@ -5,7 +5,8 @@
     padding: 10px;
     background-color: rgb(124, 133, 124);
     width: 420px;
-    height: 350px;
+    height: 480px;
+    text-align: center;
 }
 
 #two {
@@ -15,7 +16,8 @@
     padding: 10px;
     background-color: rgb(119, 119, 99);
     width: 420px;
-    height: 350px;
+    height: 480px;
+    text-align: center;
 }
 
 #three {
@@ -25,7 +27,8 @@
     padding: 10px;
     background-color: rgb(117, 95, 95);
     width: 420px;
-    height: 350px;
+    height: 480px;
+    text-align: center;
 }
 
 #four {
@@ -35,7 +38,8 @@
     padding: 10px;
     background-color: rgb(124, 133, 124);
     width: 420px;
-    height: 350px;
+    height: 480px;
+    text-align: center;
 }
 
 #five {
@@ -45,7 +49,8 @@
     padding: 10px;
     background-color: rgb(119, 119, 99);
     width: 420px;
-    height: 350px;
+    height: 480px;
+    text-align: center;
 }
 
 #six {
@@ -55,7 +60,8 @@
     padding: 10px;
     background-color: rgb(117, 95, 95);
     width: 420px;
-    height: 350px;
+    height: 480px;
+    text-align: center;
 }
 
 #container
@@ -65,3 +71,33 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+
+  a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+  #header {
+    text-align: center;
+  }
+
+  img {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }

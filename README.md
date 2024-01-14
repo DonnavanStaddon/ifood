@@ -52,4 +52,4 @@ https://donnavanstaddon.github.io/vadcode/
 ### Push your code again and you'll be good to go!
 ### i use navbar w3schools to design my website
 * [Nav bar code](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav)
-* [I used google fonts for nice fonts](https://www.w3schools.com/howto/tryit.asp?font=Sofia)
+* [I used Font Awesome 5](https://www.w3schools.com/icons/fontawesome5_intro.asp)
