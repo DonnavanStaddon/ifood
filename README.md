@@ -1,5 +1,5 @@
 # ifood
-https://donnavanstaddon.github.io/vadcode/
+https://donnavanstaddon.github.io/ifood/
 ## UX
 ## Project Goals
 ### The primary goal of ifood is for people whom would like to order a takeaway and have it delivered to their home
